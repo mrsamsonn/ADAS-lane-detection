@@ -1,6 +1,6 @@
 # ADAS Road Lane Detection
 
-This repository contains a deep learning-based lane detection system using convolutional neural networks (CNN) to detect lanes in road videos. The model processes video input, performs lane detection, and outputs a video with detected lane markings overlaid.
+Deep learning-based lane detection system using convolutional neural networks (CNN) to detect lanes in road videos. The model processes video input, performs lane detection, and outputs a video with detected lane markings overlaid.
 
 ## Overview
 
