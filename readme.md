@@ -13,11 +13,7 @@ The project is divided into three main components:
 ## Demo
 timelapse        |  short-demo
 :-------------------------:|:-------------------------:
-<img src="[https://github.com/user-attachments/assets/24646fbf-99d9-4112-bf62-31a8444018f5]([https://github.com/user-attachments/assets/d16d5aea-2e96-4cf7-8425-175b0ffd69b1](https://github.com/user-attachments/assets/24646fbf-99d9-4112-bf62-31a8444018f5))" alt="Lidar Mapping Sim" width="400"> |  <img src="[https://github.com/user-attachments/assets/0c016ab9-066d-4b6f-aa84-449fa341d80a]([https://github.com/user-attachments/assets/d752bb55-722f-4116-b807-5abffe57856b](https://github.com/user-attachments/assets/d752bb55-722f-4116-b807-5abffe57856b))" alt="Mapping Feature Extraction" width="400">
-
-![20x-demo(1)](https://github.com/user-attachments/assets/d16d5aea-2e96-4cf7-8425-175b0ffd69b1)
-![20sec-demo(1)](https://github.com/user-attachments/assets/d752bb55-722f-4116-b807-5abffe57856b)
-
+ <img src="https://github.com/user-attachments/assets/d16d5aea-2e96-4cf7-8425-175b0ffd69b1" width="400"> |  <img src="https://github.com/user-attachments/assets/d752bb55-722f-4116-b807-5abffe57856b" width="400">
 
 ## Requirements
 
